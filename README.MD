@@ -1,6 +1,8 @@
+
 #Repository Directory
+
 ##Author: Blas Oronoz
 
-this line stay
+###License MIT
 
 this line is gone
